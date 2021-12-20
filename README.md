@@ -45,7 +45,7 @@
   <a href="mailto:raulangelj@gmail.com"><img src="https://img.shields.io/badge/-raulangelj@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/raulangel51/"><img src="https://img.shields.io/badge/-@raulangel51-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   <a href="https://www.facebook.com/raulangel.jimenezhernandez"><img src="https://img.shields.io/badge/-@Raul%20Angel%20Jimenez-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-  <a href="https://www.facebook.com/raulangel.jimenezhernandez"><img src="https://img.shields.io/badge/-raulangelj-7C27CB?style=flat&logo=Github&logoColor=white"/></a>
+  <a href="https://github.com/raulangelj"><img src="https://img.shields.io/badge/-raulangelj-7C27CB?style=flat&logo=Github&logoColor=white"/></a>
 </p>
 <!--
 ### Hi there 👋
