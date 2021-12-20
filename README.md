@@ -11,8 +11,6 @@
 ✉️ &nbsp;You can shoot me an email at the contact page in my [Personal Site](https://raulangelj.herokuapp.com/)! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Prortfolio](https://raulangelj.herokuapp.com/Portfolio) for more details about me. I'm open to feedback and suggestions!
 
-<img src="https://github.com/raulangelj/raulangelj/blob/master/devcard.svg" width="400" alt="Raul Angel's Dev Card"/>
-
 ### 🛠 &nbsp;Tech Stack
 <!--<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tech Stack-->
 
@@ -30,6 +28,8 @@
 ![javaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
+
+<img src="https://github.com/raulangelj/raulangelj/blob/main/devcard.svg" width="400" alt="Raul Angel's Dev Card"/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
