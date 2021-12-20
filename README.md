@@ -30,17 +30,6 @@
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass&logoColor=f69b4)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku&logoColor=blueviolet)&nbsp;
 
-<img src="https://github.com/raulangelj/raulangelj/blob/main/devcard.svg" width="400" alt="Raul Angel's Dev Card"/>
-
-### ⚙️ &nbsp;GitHub Analytics
-<p align="center">
-  <a href="https://github.com/raulangelj">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulangelj&layout=compact&langs_count=8&hide=c%23"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raulangelj&hide=prs&count_private=true&show_icons=true"/>
-    <!--<img height="180em" src="https://github-profile-trophy.vercel.app/?username=raulangelj&theme=juicyfresh&no-bg=true" /> -->
-  </a>
-</p>
-
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
   <a href="https://raulangelj.herokuapp.com/"><img src="https://img.shields.io/badge/-raulangel.herokuapp.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
@@ -50,6 +39,17 @@
   <a href="https://www.facebook.com/raulangel.jimenezhernandez"><img src="https://img.shields.io/badge/-@Raul%20Angel%20Jimenez-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
   <a href="https://github.com/raulangelj"><img src="https://img.shields.io/badge/-raulangelj-7C27CB?style=flat&logo=Github&logoColor=white"/></a>
 </p>
+
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+  <a href="https://github.com/raulangelj">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulangelj&layout=compact&langs_count=8&hide=c%23"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raulangelj&hide=prs&count_private=true&show_icons=true"/>
+    <!--<img height="180em" src="https://github-profile-trophy.vercel.app/?username=raulangelj&theme=juicyfresh&no-bg=true" /> -->
+    <img src="https://github.com/raulangelj/raulangelj/blob/main/devcard.svg" width="400" alt="Raul Angel's Dev Card"/>
+  </a>
+</p>
+
 <!--
 ### Hi there 👋
 **raulangelj/raulangelj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
